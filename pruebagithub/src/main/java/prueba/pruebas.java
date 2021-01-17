@@ -12,6 +12,7 @@ package prueba;
 public class pruebas {
     public static void main(String[] args) {
 		// TODO Auto-generated method stub
+                System.out.println("Números pares del 1 al 100");
 		byte numero;
 		numero = 1;
 		while (numero<=100) {
